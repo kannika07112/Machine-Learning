@@ -54,13 +54,13 @@ This project uses the following tools and libraries:
 1. **Clone the repository**
 
    ```bash
-   git clone (https://github.com/kannika07112/Machine_Learning/tree/main/Spam_Not_Spam_message_prediction)
+   git clone https://github.com/kannika07112/Machine_Learning
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd spam-mail-detector
+   cd Spam_Not_Spam_message_prediction
    ```
 
 3. **Install required packages**
