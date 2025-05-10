@@ -1,7 +1,6 @@
-
 ###  `requirements.txt`
 
-```txt
+```
 numpy
 pandas
 scikit-learn
@@ -13,6 +12,6 @@ scikit-learn
 
 If you're running this in **Jupyter Notebook**, or plan to:
 
-```txt
+```
 jupyter
 ```
