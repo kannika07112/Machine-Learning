@@ -54,7 +54,7 @@ This project uses the following tools and libraries:
 1. **Clone the repository**
 
    ```bash
-   git clone [Spam Not Spam Message Prediction Project](https://github.com/kannika07112/Machine_Learning/tree/main/Spam_Not_Spam_message_prediction)
+   git clone (https://github.com/kannika07112/Machine_Learning/tree/main/Spam_Not_Spam_message_prediction)
    ```
 
 2. **Navigate to the project directory**
