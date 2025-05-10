@@ -1,0 +1,8 @@
+Essential Libraries for data processing and model training:
+numpy
+pandas
+scikit-learn
+
+Interactive environment:
+
+Jupyter notebook
