@@ -1,0 +1,20 @@
+Here’s a `requirements.txt` file with the exact dependencies based on diabetes prediction code using SVM:
+
+```
+numpy
+pandas
+scikit-learn
+```
+
+If you're using **Jupyter Notebook**, you can optionally include:
+
+```
+notebook
+```
+
+```
+numpy
+pandas
+scikit-learn
+notebook
+```
